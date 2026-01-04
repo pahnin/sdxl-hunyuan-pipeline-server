@@ -1,0 +1,17 @@
+# Bytecode caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Env/outputs (your project)
+.hf_download/
+outputs/
+temp/
+job_queue.sqlite
